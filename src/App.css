@@ -1,0 +1,23 @@
+table
+{
+  border-collapse: collapse;
+  font-family: 'consolas';
+}
+tr, thead
+{
+height: 50px;
+}
+td
+{
+  border: 2px solid #aaaaaa;
+  font-size: 25px;
+  padding: 12px;
+}
+.btns
+{
+  background-color: #dddddd;
+}
+.btns:hover
+{
+  background-color: #cccccc;
+}
